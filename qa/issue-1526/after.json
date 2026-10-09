@@ -1,0 +1,7 @@
+{
+  "stage": "after",
+  "description": "Create a new album to organize your photos.",
+  "cancelClosesDialog": true,
+  "pageErrors": [],
+  "shell": "headless Chromium component preview; real component and application providers"
+}
